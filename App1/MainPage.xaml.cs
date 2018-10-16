@@ -16,7 +16,7 @@ namespace App1
     /// </summary>に
     public sealed partial class MainPage : Page
     {
-        private static string directLineSecret = "QJaBeEbHBZM.cwA.yM8.OXoBIbbcLunjh0iV4GdJb20PjaewlmRpReZt7awRQOo";
+        private static string directLineSecret = "Your Key is here";
         private static string fromUser = "DirectLineSampleClientUser";
         DirectLineClient client;
         Conversation conversation;
